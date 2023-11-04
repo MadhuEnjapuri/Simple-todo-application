@@ -6,10 +6,6 @@ This is a simple todo application that allows users to create, edit, and delete 
 ## Features
 
 - Create, edit, and delete tasks
-- Mark tasks as completed or pending
-- Filter tasks by status or keyword
-- Sort tasks by date or priority
-- Responsive design
 
 ## Contributing
 
